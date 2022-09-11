@@ -1,0 +1,2 @@
+# Youtube_Get_LiveScheduledStartTime
+YoutubeのLiveの開始予定時刻を取得する。
